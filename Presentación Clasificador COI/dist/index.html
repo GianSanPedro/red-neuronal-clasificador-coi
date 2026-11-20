@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Presentación interactiva sobre la arquitectura del clasificador de secuencias COI V14 AMD.">
+  <meta name="theme-color" content="#1a3028">
+  <title>Presentación Clasificador COI</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./campus.css">
+  <script src="./slides.js" defer></script>
+  <script src="./presentation.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#slide-heading" data-action="skip">Ir a la diapositiva</a>
+  <div class="presentation" id="presentation">
+    <header class="toolbar">
+      <button class="brand" type="button" data-action="home" aria-label="COI V14 AMD, ir a la portada">
+        <span class="brand-mark" aria-hidden="true">COI</span>
+        <span class="brand-version">V14 AMD</span>
+      </button>
+      <nav class="chapters" id="chapters" aria-label="Secciones"></nav>
+      <div class="tools">
+        <button class="control" id="open-index" type="button" data-action="index" aria-haspopup="dialog" aria-keyshortcuts="I">Índice</button>
+        <button class="control notes-control" id="open-notes" type="button" data-action="notes" aria-haspopup="dialog" aria-keyshortcuts="N">Notas</button>
+        <button class="control fullscreen-control" id="fullscreen" type="button" data-action="fullscreen" aria-label="Pantalla completa" aria-keyshortcuts="F" aria-pressed="false" title="Pantalla completa (F)"><span aria-hidden="true">⛶</span></button>
+      </div>
+    </header>
+    <main class="stage" id="stage" tabindex="-1">
+      <article class="slide" id="slide" aria-labelledby="slide-heading"></article>
+      <noscript>Activá JavaScript en el navegador para mostrar la presentación.</noscript>
+    </main>
+    <footer class="navigation">
+      <div class="position">
+        <progress class="progress" id="progress" value="1" max="29" aria-label="Progreso de la presentación"></progress>
+        <span class="page-count" id="page-count"></span>
+      </div>
+    </footer>
+  </div>
+  <div class="sr-only" id="announcement" role="status" aria-live="polite"></div>
+
+  <dialog id="index-dialog" aria-labelledby="index-heading">
+    <div class="dialog-header">
+      <h2 id="index-heading">Índice</h2>
+      <form method="dialog"><button class="control" type="submit" aria-label="Cerrar índice">Cerrar</button></form>
+    </div>
+    <div class="dialog-content" id="index-content"></div>
+    <p class="dialog-hint">← y → cambian de diapositiva. F abre pantalla completa y N abre las notas.</p>
+  </dialog>
+
+  <dialog id="notes-dialog" aria-labelledby="notes-heading">
+    <div class="dialog-header">
+      <h2 id="notes-heading">Notas</h2>
+      <form method="dialog"><button class="control" type="submit" aria-label="Cerrar notas">Cerrar</button></form>
+    </div>
+    <div class="dialog-content notes-content" id="notes-content"></div>
+  </dialog>
+</body>
+</html>

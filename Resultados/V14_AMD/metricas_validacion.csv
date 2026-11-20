@@ -1,0 +1,2 @@
+corrida,epoca_grupo,epoca_especie,grupo_correcto_en_conocidas,especie_correcta_en_conocidas,grupo_correcto_en_especies_nuevas,grupo_correcto_y_especie_desconocida,grupo_desconocido_en_grupos_nuevos,precision_al_nombrar,val_promedio
+V14_AMD,88,283,0.9956794734059788,0.8820343132205003,0.8785465145724092,0.6848329675229943,0.7717543147119449,0.9113921643210346,0.7795405318184798

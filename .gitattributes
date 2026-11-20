@@ -1,0 +1,14 @@
+* text=auto
+*.ipynb text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.cmd text eol=crlf
+
+# Datos y modelo: Git Large File Storage.
+"Dataset Final/*.csv" filter=lfs diff=lfs merge=lfs -text
+"Dataset Especie Desconocida/*.csv" filter=lfs diff=lfs merge=lfs -text
+"Dataset Grupos Desconocidos/*.csv" filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text

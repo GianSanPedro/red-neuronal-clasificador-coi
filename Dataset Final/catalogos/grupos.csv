@@ -1,0 +1,149 @@
+grupo,clase_taxonomica,fuente_auditada_original,especies_entrenamiento,especies_entrenamiento_con_14_3_3,ejemplares_entrenamiento,ejemplares_validacion_conocidas,especies_validacion_nueva,especies_prueba_nueva,especies_desconocidas_entrenamiento,ejemplares_especie_desconocida
+Acanthuridae,Actinopteri,GenBank - auditoría de peces,11,6,588,18,5,5,56,387
+Acrididae,Insecta,iBOL Europa,25,25,1223,161,5,5,218,1039
+Agromyzidae,Insecta,California CIBI,24,20,3259,209,5,5,129,541
+Amphipoda,Malacostraca,GenBank + iBOL,144,79,18332,408,5,5,1553,7974
+Amphiuridae,Ophiuroidea,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,6,6,445,18,5,5,85,211
+Anatidae,Aves,GenBank,10,7,679,24,3,5,105,586
+Anguilliformes,Actinopteri,Ampliación de animales,40,15,1783,45,5,5,435,2365
+Anthomyiidae,Insecta,iBOL Europa,68,55,16237,480,5,5,175,1019
+Anura,Amphibia,GenBank + iBOL,195,170,9926,553,5,5,2637,11706
+Aphididae,Insecta,iBOL Europa,181,120,22297,1300,5,5,458,2520
+Apidae,Insecta,iBOL Europa,62,42,5188,344,5,5,342,1660
+Apodiformes,Aves,Ampliación de animales,7,7,163,21,5,5,233,1027
+Araneae,Arachnida,GenBank + iBOL,846,583,59372,2469,5,5,7049,30196
+Arrenuridae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,6,6,153,18,5,5,59,242
+Atlantidae,Gastropoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,10,10,309,30,5,5,3,6
+Bovidae,Mammalia,GenBank,15,14,2437,48,5,5,114,620
+Braconidae,Insecta,iBOL Europa,214,162,24329,1386,5,5,938,4921
+Calanidae,Copepoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,11,11,1631,33,5,5,9,30
+Calliphoridae,Insecta,iBOL Europa,21,16,2209,159,5,5,75,414
+Carabidae,Insecta,iBOL Europa,185,135,5701,830,5,5,893,4213
+Carangiformes,Actinopteri,GenBank - auditoría de peces,63,24,4691,72,5,5,70,588
+Caudata,Amphibia,GenBank,35,33,1939,151,5,5,305,1265
+Cecidomyiidae,Insecta,California CIBI,22,20,2093,166,0,5,133,513
+Centropagidae,Copepoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,374,15,2,5,18,56
+Cerambycidae,Insecta,iBOL Europa,82,76,2866,456,5,5,326,1590
+Ceratopogonidae,Insecta,iBOL Europa,76,71,10417,632,5,5,196,1142
+Ceratozetidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,7,7,1039,21,5,5,22,78
+Cervidae,Mammalia,Ampliación de animales,9,9,681,28,5,5,31,142
+Characiformes,Actinopteri,Ampliación de animales,95,24,4089,72,5,5,937,4435
+Charadriiformes,Aves,Ampliación de animales,45,16,1411,49,5,5,237,1572
+Chironomidae,Insecta,iBOL Europa,408,392,97601,4042,5,5,659,3933
+Chiroptera,Mammalia,GenBank,201,191,15410,985,5,5,615,3394
+Chloropidae,Insecta,California CIBI,19,17,1318,172,0,5,66,241
+Chrysomelidae,Insecta,iBOL Europa,181,166,8159,1094,5,5,596,3478
+Cicadellidae,Insecta,iBOL Europa,98,84,15354,819,5,5,431,1733
+Cichliformes,Actinopterygii,GenBank + iBOL,31,11,1903,73,5,5,476,2108
+Clupeiformes,Actinopteri,Ampliación de animales,57,24,3428,82,5,5,190,1188
+Coccinellidae,Insecta,iBOL Europa,51,45,4090,342,5,5,161,696
+Coleophoridae,Insecta,iBOL Europa,62,43,2316,343,5,5,534,2549
+Columbiformes,Aves,Ampliación de animales,11,9,317,27,5,5,135,457
+Coraciiformes,Aves,Ampliación de animales,8,8,359,25,5,5,62,183
+Crambidae,Insecta,iBOL Europa,160,149,6944,978,5,5,433,2069
+Cricetidae,Mammalia,GenBank,103,96,5830,365,5,5,312,1819
+Culicidae,Insecta,iBOL Europa,79,78,10721,820,5,5,142,826
+Curculionidae,Insecta,iBOL Europa,145,125,7587,800,5,5,1367,6392
+Cyclopidae,Copepoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,13,13,848,39,5,5,42,141
+Cyprididae,Ostracoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,7,7,1643,21,5,5,42,124
+Cypriniformes,Actinopterygii,GenBank + iBOL,371,144,22490,665,5,5,2471,13809
+Daphniidae,Branchiopoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,13,5,1701,15,5,5,92,488
+Decapoda,Malacostraca,GenBank + iBOL,297,117,25704,439,5,5,5177,24522
+Delphinidae,Mammalia,GenBank ampliado + iBOL,9,8,557,38,3,5,18,98
+Diapriidae,Insecta,iBOL Europa,28,19,2244,375,5,5,54,314
+Diaptomidae,Copepoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,15,15,847,45,5,5,31,96
+Didelphimorphia,Mammalia,Ampliación de animales,9,9,414,27,5,5,38,155
+Dipodoidea,Mammalia,Ampliación de animales,6,6,633,18,2,5,23,96
+Echimyidae,Mammalia,Ampliación de animales,5,5,442,15,2,5,52,133
+Echinoidea,Echinoidea,GenBank,27,13,2026,53,5,5,250,1023
+Elasmobranchii,Chondrichthyes,GenBank,162,39,10795,152,5,5,639,4234
+Entomobryidae,Collembola,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,30,28,41479,84,5,5,80,298
+Erebidae,Insecta,iBOL Europa,106,81,7488,581,5,5,577,2441
+Eulipotyphla,Mammalia,Ampliación de animales,27,23,2085,69,5,5,196,847
+Formicidae,Insecta,iBOL Europa,210,170,15275,1657,5,5,716,3458
+Gadidae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,8,5,1192,15,5,5,4,22
+Galliformes,Aves,GenBank,9,6,1087,19,4,5,153,518
+Gelechiidae,Insecta,iBOL Europa,192,160,13488,1204,5,5,738,3868
+Geometridae,Insecta,iBOL Europa,383,349,16420,2526,5,5,1158,6041
+Glossiphoniidae,Clitellata,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,15,14,709,42,5,5,72,285
+Gobiiformes,Actinopterygii,GenBank + iBOL,144,66,6315,302,5,5,1081,5621
+Gracillariidae,Insecta,iBOL Europa,96,81,6805,666,5,5,228,1283
+Haemulidae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,19,5,672,15,5,5,72,357
+Halictidae,Insecta,California CIBI,8,7,647,68,5,5,81,219
+Heteromyidae,Mammalia,Ampliación de animales,10,10,1461,30,5,5,29,121
+Hygrobatidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,13,12,667,36,5,5,84,304
+Hypogastruridae,Collembola,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,13,8,1386,24,5,5,55,198
+Ichneumonidae,Insecta,iBOL Europa,250,202,10756,1407,5,5,2007,8959
+Isotomidae,Collembola,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,29,24,2166,72,5,5,112,514
+Ixodidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,64,63,6187,189,5,5,210,1025
+Labridae,Actinopteri,GenBank - auditoría de peces,77,15,2737,45,5,5,393,2168
+Labrisomidae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,7,6,187,18,5,5,75,319
+Laelapidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,572,15,0,5,47,108
+Lagomorpha,Mammalia,Ampliación de animales,13,13,718,39,5,5,52,231
+Lebertiidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,11,11,484,33,5,5,15,53
+Libellulidae,Insecta,iBOL Europa,7,6,292,55,5,5,53,240
+Lineidae,Pilidiophora,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,8,8,501,24,5,5,56,166
+Lumbricidae,Clitellata,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,36,30,7178,91,5,5,209,933
+Lutjanidae,Actinopteri,GenBank - auditoría de peces,39,12,2009,36,5,5,69,578
+Lycaenidae,Insecta,iBOL Europa,73,66,4420,553,5,5,362,1438
+Miridae,Insecta,California CIBI,30,24,2647,210,5,5,144,743
+Muridae,Mammalia,Ampliación de animales,57,52,5719,156,5,5,234,1034
+Muscidae,Insecta,iBOL Europa,180,138,20908,1373,5,5,267,1314
+Mustelidae,Mammalia,Ampliación de animales,7,6,485,19,5,5,35,151
+Mycetophilidae,Insecta,iBOL Europa,108,98,5010,608,5,5,646,4257
+Myctophidae,Actinopteri,GenBank - auditoría de peces,54,35,2053,105,5,5,125,965
+Naididae,Clitellata,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,22,8,1281,24,5,5,168,895
+Neogastropoda,Gastropoda,GenBank + iBOL,84,28,7378,155,5,5,2281,9970
+Noctuidae,Insecta,iBOL Europa,334,247,15324,1933,5,5,1187,6028
+Nymphalidae,Insecta,iBOL Europa,140,126,7956,1145,5,5,470,1882
+Octopoda,Cephalopoda,GenBank + iBOL,22,9,1479,74,5,5,134,790
+Ophiopyrgidae,Ophiuroidea,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,495,15,5,5,6,29
+Ophiuridae,Ophiuroidea,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,606,15,4,5,91,281
+Papilionidae,Insecta,iBOL Europa,6,6,784,55,5,5,43,185
+Passeriformes,Aves,GenBank,280,239,11487,745,5,5,2882,13223
+Pentatomidae,Insecta,iBOL Europa,12,12,2538,106,5,5,180,700
+Percidae,Actinopteri,GenBank - auditoría de peces,17,7,860,21,5,5,170,882
+Phalangiidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,908,15,0,5,36,111
+Phoridae,Insecta,iBOL Europa,219,197,93283,3007,5,5,143,1019
+Phyllodocida,Polychaeta,GenBank,87,68,4807,230,5,5,897,4863
+Phytoseiidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,12,9,418,27,5,5,93,247
+Picidae,Aves,GenBank,6,6,205,19,4,5,116,501
+Pieridae,Insecta,iBOL Europa,33,31,1893,246,5,5,138,649
+Pionidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,7,7,181,21,5,5,28,125
+Pleuronectiformes,Actinopteri,Ampliación de animales,57,17,2179,51,0,5,376,2383
+Pomacentridae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,34,6,2084,18,5,5,253,1692
+Priacanthidae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,240,15,1,5,9,52
+Primates,Mammalia,GenBank + iBOL,25,20,17450,71,5,5,284,1351
+Procellariidae,Aves,Ampliación de animales,10,9,534,27,5,5,42,224
+Psychodidae,Insecta,iBOL Europa,57,53,15979,530,5,5,124,612
+Sarcophagidae,Insecta,California CIBI,12,11,1655,126,4,5,76,209
+Scarabaeidae,Insecta,iBOL Europa,38,34,1581,191,5,5,405,1302
+Sciaenidae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,42,6,2459,29,5,5,152,900
+Sciaridae,Insecta,iBOL Europa,205,179,90445,1971,5,5,222,1435
+Sciuridae,Mammalia,Ampliación de animales,11,7,472,21,5,5,130,627
+Scombriformes,Actinopteri,Ampliación de animales,55,19,3808,57,5,5,151,1090
+Scorpiones,Arachnida,GenBank,19,12,1216,48,5,5,567,1910
+Scyphozoa,Scyphozoa,GenBank,10,6,819,25,4,5,77,452
+Serranidae,Actinopteri,GenBank - auditoría de peces,60,12,2655,36,5,5,214,1297
+Siluriformes,Actinopterygii,GenBank,148,56,7776,244,5,5,1571,6523
+Sperchontidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,112,15,0,5,27,92
+Sphaeroceridae,Insecta,California CIBI,60,49,14104,563,5,5,89,498
+Sphingidae,Insecta,iBOL Europa,11,10,751,94,5,5,94,386
+Spionidae,Polychaeta,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,8,8,239,24,5,5,91,481
+Squamata,Reptilia,GenBank + iBOL,172,151,7973,542,5,5,2496,9928
+Staphylinidae,Insecta,iBOL Europa,184,138,4890,772,5,5,1185,6924
+Stomiidae,Teleostei,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,9,6,366,18,5,5,68,249
+Syngnathiformes,Actinopteri,Ampliación de animales,58,13,3286,39,3,5,302,1675
+Syrphidae,Insecta,iBOL Europa,133,111,8621,780,5,5,654,3359
+Tachinidae,Insecta,iBOL Europa,71,53,4715,412,5,5,523,2404
+Temoridae,Copepoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,5,5,212,15,1,5,9,25
+Tenthredinidae,Insecta,iBOL Europa,168,136,6231,980,5,5,579,3257
+Tephritidae,Insecta,iBOL Europa,27,19,3736,195,5,5,195,641
+Testudines,Reptilia,GenBank + iBOL,20,13,866,48,5,5,244,1147
+Tineidae,Insecta,California CIBI,7,6,635,76,4,5,41,148
+Tipulidae,Insecta,iBOL Europa,31,26,1533,198,5,5,166,912
+Torrenticolidae,Arachnida,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,11,10,473,30,5,5,47,172
+Tortricidae,Insecta,iBOL Europa,262,211,9711,1594,5,5,799,4525
+Trochidae,Gastropoda,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,12,5,609,15,5,5,167,774
+Unionidae,Bivalvia,https://doi.org/10.5883/DP-BOLD_Public.02-Oct-2026,71,5,6646,24,5,5,464,3366
+Vespidae,Insecta,iBOL Europa,32,15,1908,163,5,5,131,568

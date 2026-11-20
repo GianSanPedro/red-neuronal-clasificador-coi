@@ -1,0 +1,24 @@
+# Publicar solamente los componentes finales del trabajo.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/Clasificacion_COI_V14_AMD.ipynb
+!/Dataset Final/
+!/Dataset Especie Desconocida/
+!/Dataset Grupos Desconocidos/
+!/Resultados/
+/Resultados/*
+!/Resultados/V14_AMD/
+!/Presentación Clasificador COI/
+
+# Respaldos de diseño y archivos locales generados.
+/Presentación Clasificador COI/.design/
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
